@@ -1,1 +1,2 @@
 # Spotify-Music-Analysis
+This project utilises a comprehensive dataset with various features such as track name, artist information, release details, streaming metrics, and other relevant attributes. The analysis focuses on cleaning the data, identifying relationships between variables, and exploring how track metrics correlate with the number of streams, chart placement, and frequency in playlists.
